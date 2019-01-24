@@ -57,6 +57,9 @@ figcaption {
 
 /* Pseudo Selectors */
 
-
+#details a:link {
+  color: black;
+  text-decoration: none;
+}
 
 
